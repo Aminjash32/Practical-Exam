@@ -2,6 +2,7 @@
 public class hardDisk {
 	
 	double space_available;
+	String brand_name;
 	
 	hardDisk(double size)
 	{
